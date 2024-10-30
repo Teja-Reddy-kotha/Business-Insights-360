@@ -4,6 +4,8 @@
 
 AtliQ is a rapidly expanding hardware company that markets a diverse array of products to customers across various countries through multiple channels, including retail outlets, direct sales, and distributor networks, both online and in physical stores. To enhance its growth trajectory and enable data-driven decision-making, AtliQ requires a dedicated data analytics team.
 
+- Live Dashboard - [Click to view](https://bit.ly/3YiRW0w)
+
 ## Technology Stack
 
 - SQL
