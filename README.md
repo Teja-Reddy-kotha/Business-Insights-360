@@ -77,7 +77,12 @@ In this project, we are utilizing a MySQL database to import datasets into Power
 ## Project Outcomes
 
 - **Finance View:** Developed a Profit and Loss statement to analyze financial performance across various markets, products, and customer segments.
+  <img src=https://github.com/Teja-Reddy-kotha/Business-Insights-360/blob/main/Finance%20View.png>
 - **Sales View:** Identified top and bottom customers along with key metrics.
+  <img src=https://github.com/Teja-Reddy-kotha/Business-Insights-360/blob/main/Sales%20View.png>
 - **Marketing View:** Highlighted top and bottom products alongside key performance indicators.
+  <img src=https://github.com/Teja-Reddy-kotha/Business-Insights-360/blob/main/Marketing%20View.png>
 - **Supply Chain View:** Created KPIs such as forecast accuracy, net error, and absolute error to evaluate supply chain effectiveness.
+  <img src=https://github.com/Teja-Reddy-kotha/Business-Insights-360/blob/main/Supply%20Chain%20View.png>
 - **Executive View:** Consolidated key insights for executive-level decision-making.
+  <img src=https://github.com/Teja-Reddy-kotha/Business-Insights-360/blob/main/Executive%20View.png>
