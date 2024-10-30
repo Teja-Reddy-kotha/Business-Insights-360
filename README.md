@@ -54,6 +54,9 @@ In this project, we are utilizing a MySQL database to import datasets into Power
   - `Pre_invoice_deductions`
   - `Post_invoice_deductions`
 
+- **Data Model (SnowFlake Schema)**
+<img src=https://github.com/Teja-Reddy-kotha/Business-Insights-360/blob/main/Data%20Model%20(SnowFlake%20Schema).png>
+
 ## Project Workflow
 
 1. **Planning and Scoping:** Initial project setup and definition of objectives.
