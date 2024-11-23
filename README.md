@@ -4,7 +4,8 @@
 
 AtliQ is a rapidly expanding hardware company that markets a diverse array of products to customers across various countries through multiple channels, including retail outlets, direct sales, and distributor networks, both online and in physical stores. To enhance its growth trajectory and enable data-driven decision-making, AtliQ requires a dedicated data analytics team.
 
-- Live Dashboard - [Click to view]([https://bit.ly/3YiRW0w](https://app.powerbi.com/view?r=eyJrIjoiYmI0ZmEwZDYtMzA0My00OWMwLThiNGQtZWRlZjYwZWQ1MDNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+- Live Dashboard - [Click to view](https://app.powerbi.com/view?r=eyJrIjoiYmI0ZmEwZDYtMzA0My00OWMwLThiNGQtZWRlZjYwZWQ1MDNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- Portfolio - [Click to view](https://codebasics.io/portfolio/Kotha-Sai-Teja-Reddy)
 
 ## Technology Stack
 
