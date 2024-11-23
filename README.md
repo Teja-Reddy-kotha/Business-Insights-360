@@ -6,6 +6,7 @@ AtliQ is a rapidly expanding hardware company that markets a diverse array of pr
 
 - Live Dashboard - [Click to view](https://app.powerbi.com/view?r=eyJrIjoiYmI0ZmEwZDYtMzA0My00OWMwLThiNGQtZWRlZjYwZWQ1MDNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - Portfolio - [Click to view](https://codebasics.io/portfolio/Kotha-Sai-Teja-Reddy)
+- Presentation PPT - [Click to view](https://www.linkedin.com/posts/tejaa-reddy-kotha_powerbi-dataanalytics-businessinsights-activity-7257277331281465344-pPvb?utm_source=share&utm_medium=member_desktop)
 
 ## Technology Stack
 
